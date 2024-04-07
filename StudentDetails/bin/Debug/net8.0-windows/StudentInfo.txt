@@ -1,0 +1,4 @@
+John,BAIA,92
+John,MBA,95
+Daniel,BAIA,94
+John,Science,95

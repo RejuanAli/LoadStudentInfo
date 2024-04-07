@@ -1,0 +1,16 @@
+C:\Users\rejua\source\repos\ICT710_Assig2_SkRejuan_Ali\StudentDetails\bin\Debug\net8.0-windows\StudentDetails.exe
+C:\Users\rejua\source\repos\ICT710_Assig2_SkRejuan_Ali\StudentDetails\bin\Debug\net8.0-windows\StudentDetails.deps.json
+C:\Users\rejua\source\repos\ICT710_Assig2_SkRejuan_Ali\StudentDetails\bin\Debug\net8.0-windows\StudentDetails.runtimeconfig.json
+C:\Users\rejua\source\repos\ICT710_Assig2_SkRejuan_Ali\StudentDetails\bin\Debug\net8.0-windows\StudentDetails.dll
+C:\Users\rejua\source\repos\ICT710_Assig2_SkRejuan_Ali\StudentDetails\bin\Debug\net8.0-windows\StudentDetails.pdb
+C:\Users\rejua\source\repos\ICT710_Assig2_SkRejuan_Ali\StudentDetails\obj\Debug\net8.0-windows\StudentDetails.Form1.resources
+C:\Users\rejua\source\repos\ICT710_Assig2_SkRejuan_Ali\StudentDetails\obj\Debug\net8.0-windows\StudentDetails.csproj.GenerateResource.cache
+C:\Users\rejua\source\repos\ICT710_Assig2_SkRejuan_Ali\StudentDetails\obj\Debug\net8.0-windows\StudentDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rejua\source\repos\ICT710_Assig2_SkRejuan_Ali\StudentDetails\obj\Debug\net8.0-windows\StudentDetails.AssemblyInfoInputs.cache
+C:\Users\rejua\source\repos\ICT710_Assig2_SkRejuan_Ali\StudentDetails\obj\Debug\net8.0-windows\StudentDetails.AssemblyInfo.cs
+C:\Users\rejua\source\repos\ICT710_Assig2_SkRejuan_Ali\StudentDetails\obj\Debug\net8.0-windows\StudentDetails.csproj.CoreCompileInputs.cache
+C:\Users\rejua\source\repos\ICT710_Assig2_SkRejuan_Ali\StudentDetails\obj\Debug\net8.0-windows\StudentDetails.dll
+C:\Users\rejua\source\repos\ICT710_Assig2_SkRejuan_Ali\StudentDetails\obj\Debug\net8.0-windows\refint\StudentDetails.dll
+C:\Users\rejua\source\repos\ICT710_Assig2_SkRejuan_Ali\StudentDetails\obj\Debug\net8.0-windows\StudentDetails.pdb
+C:\Users\rejua\source\repos\ICT710_Assig2_SkRejuan_Ali\StudentDetails\obj\Debug\net8.0-windows\StudentDetails.genruntimeconfig.cache
+C:\Users\rejua\source\repos\ICT710_Assig2_SkRejuan_Ali\StudentDetails\obj\Debug\net8.0-windows\ref\StudentDetails.dll
